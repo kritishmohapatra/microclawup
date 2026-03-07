@@ -55,7 +55,7 @@ You send a natural language message on Telegram. Groq AI converts it to a JSON h
 ### 2. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/microclawup
+git clone https://github.com/kritishmohapatra/microclawup
 cd microclawup
 ```
 
